@@ -1,0 +1,6 @@
+variant	best_m	best_mean_acc	std
+lower_split_punct	0.7	0.8300	0.0257
+lower_strip_edges	0.7	0.8300	0.0214
+lower	0.5	0.7950	0.0486
+lower_negation_bigram	0.5	0.7870	0.0496
+baseline_verbatim	2.0	0.7690	0.0330
